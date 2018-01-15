@@ -12,7 +12,7 @@
 * runV https://github.com/hyperhq/runv
 * Kata (new OpenStack project that merges Clear and runV) https://katacontainers.io
 
-### minimalistic container implementations based on namespaces, cgroups etc.
+### Minimalistic container implementations based on namespaces, cgroups etc.
 
 * https://github.com/tonybaloney/mocker
 * https://github.com/p8952/bocker
@@ -23,7 +23,7 @@
 * https://github.com/docker/machine/releases
 * https://github.com/dhiltgen/docker-machine-kvm/releases/
 
-### Docker storage (Images/Container)
+### Docker storage (images/container)
 * https://docs.docker.com/engine/userguide/storagedriver/
 * https://integratedcode.us/2016/08/30/storage-drivers-in-docker-a-deep-dive/
 * http://www.windsock.io/explaining-docker-image-ids/
@@ -33,7 +33,7 @@
 * https://github.com/rancher/convoy
 * https://github.com/ClusterHQ/flocker
 
-### Container standards/Specs
+### Container standards/specs
 * https://github.com/containernetworking/cni
 * https://github.com/opencontainers/runtime-spec
 * https://github.com/opencontainers/image-spec
@@ -63,7 +63,7 @@
 * https://docs.docker.com/compose/production
 * https://docs.docker.com/engine/swarm/stack-deploy
 
-### Docker Secrets
+### Docker secrets
 * https://docs.docker.com/engine/swarm/secrets/
 * https://github.com/hashicorp/vault
 * https://square.github.io/keywhiz/
