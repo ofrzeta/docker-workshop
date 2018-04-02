@@ -18,6 +18,7 @@
 * https://github.com/p8952/bocker
 * https://github.com/kragniz/omochabako/blob/master/omochabako
 * https://blog.lizzie.io/linux-containers-in-500-loc.html
+* A workshop on Linux containers: Rebuild Docker from Scratch https://github.com/Fewbytes/rubber-docker
 
 ### Docker Machine (easy VM including Docker)
 * https://github.com/docker/machine/releases
