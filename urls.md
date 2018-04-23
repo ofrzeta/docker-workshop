@@ -12,6 +12,7 @@
 * Clear Linux https://clearlinux.org/
 * runV https://github.com/hyperhq/runv
 * Kata (new OpenStack project that merges Clear and runV) https://katacontainers.io
+* frakti (hypervisor-based container runtime for Kubernetes) https://github.com/kubernetes/frakti
 
 ### Minimalistic container implementations based on namespaces, cgroups etc.
 
