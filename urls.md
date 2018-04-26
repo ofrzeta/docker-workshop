@@ -101,9 +101,10 @@
 * Automated deployment updates https://keel.sh
 
 #### Kubernetes distros
-* http://rancher.com
-* https://www.nomadproject.io
-* https://coreos.com/tectonic
+* Rancher 2.0: http://rancher.com
+* Nomad by Hashicorp: https://www.nomadproject.io
+* CoreOS (now Red Hat) Tectonic https://coreos.com/tectonic
+* Minimal and free Kubernetes distribution: https://typhoon.psdn.io/
 
 #### Kubernetes container runtimes
 * CRI-O is an implementation of the Kubernetes CRI (Container Runtime Interface) to enable using OCI (Open Container Initiative) compatible runtimes http://cri-o.io/
