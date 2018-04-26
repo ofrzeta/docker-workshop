@@ -75,7 +75,7 @@
 * https://docs.docker.com/engine/reference/builder/#understand-how-cmd-and-entrypoint-interact
 
 ### Container security
-* https://danwalsh.livejournal.com/76358.html
+* What capabilities do I really need in my container? https://danwalsh.livejournal.com/76358.html
 * https://developers.redhat.com/blog/2017/02/16/find-what-capabilities-an-application-requires-to-successful-run-in-a-container/
 
 ### Interesting thought about alternative container architecture
