@@ -4,8 +4,9 @@
 * Rocket (stable) https://coreos.com/rkt
 * Pouch (stable), container engine by Alibaba https://github.com/alibaba/pouch
 * Railcar (experimental) https://github.com/oracle/railcar
-* VIC Engine (Containers on vSphere) https://github.com/vmware/vic
+* VIC Engine (containers on vSphere) https://github.com/vmware/vic
 * LXC, LXD https://linuxcontainers.org/lxd/ (also possible to use as a Kubernetes runtime)
+* gVisor (container runtime with userspace kernel features, by Google) https://github.com/google/gvisor
 
 ### Container + VM engines
 
@@ -104,7 +105,8 @@
 * Rancher 2.0: http://rancher.com
 * Nomad by Hashicorp: https://www.nomadproject.io
 * CoreOS (now Red Hat) Tectonic https://coreos.com/tectonic
-* Minimal and free Kubernetes distribution: https://typhoon.psdn.io/
+* Typhoon (minimal and free Kubernetes distribution): https://typhoon.psdn.io/
+* Pharos by Kontena: https://pharos.sh
 
 #### Kubernetes container runtimes
 * CRI-O is an implementation of the Kubernetes CRI (Container Runtime Interface) to enable using OCI (Open Container Initiative) compatible runtimes http://cri-o.io/
