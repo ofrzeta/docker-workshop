@@ -56,6 +56,9 @@
 * https://github.com/projectatomic/skopeo - work with remote images registries - retrieving information, images, signing content
 * https://github.com/estesp/manifest-tool - manifest-tool is a command line utility that implements a portion of the client side of the Docker * registry v2.2 API for interacting with manifest objects in a registry conforming to that specification.
 * https://github.com/ivanilves/lstags - compare and sync local Docker images with ones in remote registry
+* https://github.com/burnettk/delete-docker-registry-image 
+If you are running a private v2 docker registry, and you are storing your data on disk, running this script from the machine where the data lives will let you fully delete an image or tag
+* Tools for browsing and manipulating docker registries https://github.com/mayflower/docker-ls
 
 ### Security scanning
 * https://github.com/coreos/clair
