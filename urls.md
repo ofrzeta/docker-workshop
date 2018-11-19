@@ -92,7 +92,7 @@ If you are running a private v2 docker registry, and you are storing your data o
 * kubeadm is a toolkit that help you bootstrap a best-practice Kubernetes cluster in an easy, reasonably secure and extensible way  https://kubernetes.io/docs/setup/independent/create-cluster-kubeadm/
 * Installation for "production" environments on AWS https://github.com/kubernetes/kops
 * Deploy a production ready kubernetes cluster on AWS, GCE, Azure, OpenStack or Baremetal https://github.com/kubernetes-incubator/kubespray
-* Create, manage, snapshot, and scale Kubernetes infrastructure in the public cloud https://github.com/kris-nova/kubicorn
+* Kubicorn: create, manage, snapshot, and scale Kubernetes infrastructure in the public cloud https://github.com/kubicorn/kubicorn
 * Terraform module for creating Kubernetes cluster running on Container Linux by CoreOS in an AWS VPC https://github.com/kz8s/tack
 * Minikube (Kubernetes on a single VM) https://kubernetes.io/docs/getting-started-guides/minikube/
 
