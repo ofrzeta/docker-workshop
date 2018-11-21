@@ -82,10 +82,17 @@ If you are running a private v2 docker registry, and you are storing your data o
 * What capabilities do I really need in my container? https://danwalsh.livejournal.com/76358.html
 * https://developers.redhat.com/blog/2017/02/16/find-what-capabilities-an-application-requires-to-successful-run-in-a-container/
 
+#### Orchestration
+* Docker Swarm
+* Kubernetes, see below
+* Nomad by Hashicorp: https://www.nomadproject.io
+* Stellar, minimalistic orchestration https://github.com/ehazlett/stellar/
+
 ### Interesting thought about alternative container architecture
 * https://www.hastexo.com/blogs/florian/2016/02/21/containers-just-because-everyone-else/
 
 ### Kubernetes
+
 #### Installation
 * Manual installation on Google Cloud https://github.com/kelseyhightower/kubernetes-the-hard-way
 * Same thing as above on bare metal https://github.com/Praqma/LearnKubernetes/blob/master/kamran/Kubernetes-The-Hard-Way-on-BareMetal.md
@@ -106,7 +113,6 @@ If you are running a private v2 docker registry, and you are storing your data o
 
 #### Kubernetes distros
 * Rancher 2.0: http://rancher.com
-* Nomad by Hashicorp: https://www.nomadproject.io
 * CoreOS (now Red Hat) Tectonic https://coreos.com/tectonic
 * Typhoon (minimal and free Kubernetes distribution): https://typhoon.psdn.io/
 * Pharos by Kontena: https://pharos.sh
