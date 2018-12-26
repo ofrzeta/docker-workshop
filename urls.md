@@ -64,6 +64,7 @@ If you are running a private v2 docker registry, and you are storing your data o
 * https://github.com/coreos/clair
 * https://github.com/arminc/clair-scanner
 * https://github.com/jgsqware/clairctl
+* Docker Bench for Security, a script that checks for best-practices around deploying Docker containers in production, https://github.com/docker/docker-bench-security
 
 ### Docker Compose
 * https://docs.docker.com/compose/compose-file
